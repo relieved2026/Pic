@@ -1,1 +1,1 @@
-# 存放PicGo上传的Typora内的图片
+# 存放通过PicGo上传的图片
